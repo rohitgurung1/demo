@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slick-dots li button:before {
+  font-size: 20px!important;
+  color: #6254E7!important;
+}
+
+p {
+  color: #696687;
+}
